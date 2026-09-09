@@ -1,0 +1,116 @@
+{
+    "hostels": {
+        "Block A": {
+            "A101": {
+                "capacity": 4,
+                "students": [
+                    "VU-BSF-2603-2383-DAY"
+                ]
+            },
+            "A102": {
+                "capacity": 4,
+                "students": []
+            },
+            "A103": {
+                "capacity": 4,
+                "students": []
+            },
+            "A104": {
+                "capacity": 4,
+                "students": []
+            },
+            "A105": {
+                "capacity": 4,
+                "students": []
+            }
+        },
+        "Block B": {
+            "B101": {
+                "capacity": 4,
+                "students": []
+            },
+            "B102": {
+                "capacity": 4,
+                "students": []
+            },
+            "B103": {
+                "capacity": 4,
+                "students": []
+            },
+            "B104": {
+                "capacity": 4,
+                "students": []
+            },
+            "B105": {
+                "capacity": 4,
+                "students": []
+            }
+        },
+        "Block C": {
+            "C101": {
+                "capacity": 3,
+                "students": [
+                    "VU-BBC-2603-2819-DAY",
+                    "VU-BSF-2603-1310-DAY"
+                ]
+            },
+            "C102": {
+                "capacity": 3,
+                "students": []
+            },
+            "C103": {
+                "capacity": 3,
+                "students": []
+            },
+            "C104": {
+                "capacity": 3,
+                "students": []
+            },
+            "C105": {
+                "capacity": 3,
+                "students": []
+            }
+        }
+    },
+    "students": {
+        "VU-BBC-2603-2819-DAY": {
+            "name": "Namono Faith",
+            "room": "C101",
+            "block": "Block C",
+            "total_fee": 800000,
+            "amount_paid": 0,
+            "balance": 800000
+        },
+        "VU-BSF-2603-2383-DAY": {
+            "name": "Elizabeth Kisa",
+            "room": "A101",
+            "block": "Block A",
+            "total_fee": 800000,
+            "amount_paid": 400000,
+            "balance": 400000
+        },
+        "VU-BSF-2603-1310-DAY": {
+            "name": "Katembo Kamwanya",
+            "room": "C101",
+            "block": "Block C",
+            "total_fee": 800000,
+            "amount_paid": 600000,
+            "balance": 200000
+        }
+    },
+    "payments": {
+        "VU-BBC-2603-2819-DAY": [],
+        "VU-BSF-2603-2383-DAY": [
+            {
+                "amount": 400000,
+                "date": "2026-09-09 17:32:56"
+            }
+        ],
+        "VU-BSF-2603-1310-DAY": [
+            {
+                "amount": 600000,
+                "date": "2026-09-09 17:47:15"
+            }
+        ]
+    }
+}
