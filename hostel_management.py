@@ -1,3 +1,5 @@
+# NAMONO FAITH  VU-BBC-2603-2819-DAY
+
 # ============================================================
 # HOSTEL ROOM BOOKING AND FEES MANAGEMENT SYSTEM
 # ============================================================
@@ -8,9 +10,6 @@
 #
 # The system provides a simple menu-driven interface and
 # allows records to be saved and loaded using a JSON file.
-#
-# 
-# Namono Faith  VU-BBC-2603-2819-DAY
 #
 # ============================================================
 
