@@ -78,8 +78,8 @@
             "room": "C101",
             "block": "Block C",
             "total_fee": 800000,
-            "amount_paid": 0,
-            "balance": 800000
+            "amount_paid": 300000,
+            "balance": 500000
         },
         "VU-BSF-2603-2383-DAY": {
             "name": "Elizabeth Kisa",
@@ -99,7 +99,12 @@
         }
     },
     "payments": {
-        "VU-BBC-2603-2819-DAY": [],
+        "VU-BBC-2603-2819-DAY": [
+            {
+                "amount": 300000,
+                "date": "2026-09-09 18:35:32"
+            }
+        ],
         "VU-BSF-2603-2383-DAY": [
             {
                 "amount": 400000,

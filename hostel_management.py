@@ -1,17 +1,28 @@
+# ============================================================
+# HOSTEL ROOM BOOKING AND FEES MANAGEMENT SYSTEM
+# ============================================================
+#
+# This Python program is designed to help a hostel warden
+# manage student registration, room allocation, hostel fees,
+# payments, occupancy and student records.
+#
+# The system provides a simple menu-driven interface and
+# allows records to be saved and loaded using a JSON file.
+#
+# 
+# Namono Faith  VU-BBC-2603-2819-DAY
+#
+# ============================================================
+
 import json
 import os
 from datetime import datetime
 
 
-# ============================================================
-# HOSTEL ROOM BOOKING AND FEES MANAGEMENT SYSTEM
-# ============================================================
-
 DATA_FILE = "hostel_data.json"
 
 
 HOSTEL_FEE = 800000
-
 
 # ============================================================
 # 1. HOSTEL AND ROOM DATA
